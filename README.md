@@ -23,3 +23,9 @@ Instale os pacotes necessários com:
 
 ```bash
 pip install -r requirements.txt
+
+📧 Contato
+Para dúvidas ou sugestões, entre em contato:
+
+Email: freecodebr1@gmail.com
+LinkedIn: https://www.linkedin.com/in/eduardoemanuel/
